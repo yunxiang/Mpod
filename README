@@ -1,1 +1,3 @@
-It is a test!!
+This is the embedded software code for Mpod. 
+
+It is programmed and compiled based on Arduino platform. It collects data from the Mpod device and transfers the  data to the smartphone periodically.   
